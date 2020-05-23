@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bussiness-center/bussiness-center.iml" filepath="$PROJECT_DIR$/bussiness-center/bussiness-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner-intergration/inner-intergration.iml" filepath="$PROJECT_DIR$/inner-intergration/inner-intergration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-capacity-platform.iml" filepath="$PROJECT_DIR$/ls-capacity-platform.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bussiness-center" />
+        <module name="inner-intergration" />
+        <module name="api-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="bussiness-center" target="1.8" />
+      <module name="common-service" target="1.8" />
+      <module name="inner-intergration" target="1.8" />
+      <module name="ls-capacity-platform" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="bussiness-center" options="-parameters" />
+      <module name="common-service" options="-parameters" />
+      <module name="inner-intergration" options="-parameters" />
+      <module name="ls-capacity-platform" options="-parameters" />
+    </option>
+  </component>
+</project>
