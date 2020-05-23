@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/bussiness-center/bussiness-center.iml" filepath="$PROJECT_DIR$/bussiness-center/bussiness-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner-intergration/common-service/common-service.iml" filepath="$PROJECT_DIR$/inner-intergration/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner-intergration/db-service/db-service.iml" filepath="$PROJECT_DIR$/inner-intergration/db-service/db-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner-intergration/inner-intergration.iml" filepath="$PROJECT_DIR$/inner-intergration/inner-intergration.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-capacity-platform.iml" filepath="$PROJECT_DIR$/ls-capacity-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner-intergration/redis-service/redis-service.iml" filepath="$PROJECT_DIR$/inner-intergration/redis-service/redis-service.iml" />
     </modules>
   </component>
 </project>

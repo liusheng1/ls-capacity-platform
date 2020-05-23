@@ -21,6 +21,7 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
+        <open.version>0.0.1-SNAPSHOT</open.version>
         <java.version>1.8</java.version>
         <core.version>2.0.1</core.version>
         <log4j2.version>2.1</log4j2.version>
@@ -41,6 +42,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <hibernate-validator.verion>5.0.2.Final</hibernate-validator.verion>
         <flowable.version>6.4.1</flowable.version>
+        <redssion.version>3.11.6</redssion.version>
         <spring-cloud-dependencies.version>Greenwich.SR5</spring-cloud-dependencies.version>
     </properties>
 
@@ -105,13 +107,13 @@
                 <artifactId>spring-security-oauth2</artifactId>
                 <version>${security-oauth2.version}</version>
             </dependency>
-
-           <!-- &lt;!&ndash; 公共实体类模块 &ndash;&gt;
             <dependency>
-                <groupId>com.open.capacity</groupId>
-                <artifactId>common-spring-boot-starter</artifactId>
-                <version>${core.version}</version>
+                <groupId>com.ls</groupId>
+                <artifactId>common-service</artifactId>
+                <version>${open.version}</version>
             </dependency>
+           <!-- &lt;!&ndash; 公共实体类模块 &ndash;&gt;
+
             &lt;!&ndash; 关系型和非关系型数据库配置 &ndash;&gt;
             <dependency>
                 <groupId>com.open.capacity</groupId>

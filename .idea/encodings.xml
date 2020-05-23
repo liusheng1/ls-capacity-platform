@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bussiness-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inner-intergration/common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inner-intergration/db-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inner-intergration/redis-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/inner-intergration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inner-intergration/src/main/resources" charset="UTF-8" />
   </component>
 </project>

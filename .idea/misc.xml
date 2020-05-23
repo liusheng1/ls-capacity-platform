@@ -15,7 +15,9 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/db-service/pom.xml" />
         <option value="$PROJECT_DIR$/inner-intergration/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-service/pom.xml" />
       </set>
     </option>
   </component>

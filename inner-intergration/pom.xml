@@ -10,6 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>inner-intergration</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>common-service</module>
+        <module>db-service</module>
+        <module>redis-service</module>
+    </modules>
 
 
 </project>
