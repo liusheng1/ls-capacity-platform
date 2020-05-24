@@ -15,6 +15,7 @@
         <module>common-service</module>
         <module>db-service</module>
         <module>redis-service</module>
+        <module>log-service</module>
     </modules>
 
 
